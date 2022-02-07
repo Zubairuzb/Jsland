@@ -22,7 +22,7 @@ code {
 
 .birthday{
   display: flex;
-  gap: 15px;
+  gap: 30px;
   align-items: center;
   margin-bottom: 25px;
 }
@@ -41,6 +41,7 @@ code {
 .b-detail h4{
   font-size: 14px;
   font-weight: 300;
+  margin: 0px;
 }
 
 .b-list {
